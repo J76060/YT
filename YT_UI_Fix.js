@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name        YT - JPE UI Fix
-// @homepageURL https://github.com/JustinEpstein/YT/blob/main/JPE_YT_UI_Fix.js
+// @homepageURL https://github.com/J76060/YT/blob/main/YT_UI_Fix.js
+// @downloadURL https://github.com/J76060/YT/raw/main/YT_UI_Fix.js
+// @updateURL   https://github.com/J76060/YT/raw/main/YT_UI_Fix.js
 // @include     https://www.youtube.com*
 // @include     https://youtube.com*
 // @include     https://youtube.googleapis.com/embed*
