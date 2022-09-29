@@ -3,10 +3,7 @@
 // @homepageURL https://github.com/J76060/YT/blob/main/YT_UI_Fix.js
 // @downloadURL https://github.com/J76060/YT/raw/main/YT_UI_Fix.js
 // @updateURL   https://github.com/J76060/YT/raw/main/YT_UI_Fix.js
-// @include     https://www.youtube.com*
-// @include     https://youtube.com*
-// @include     https://youtube.googleapis.com/embed*
-// @include     https://www.youtube-nocookie.com/embed*
+// @match        *://*.youtube.com/*
 // @description null
 // @version     null
 //
